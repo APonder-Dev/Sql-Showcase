@@ -1,0 +1,29 @@
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+*.sql-journal
+
+# Logs / Backups
+*.log
+*.bak
+*.backup
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Node modules
+node_modules/
+
+# Build / Dist files
+dist/
+build/
